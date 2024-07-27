@@ -34,31 +34,31 @@ Here are the visual representations of the campus network topology as designed i
 
 #### Screenshot 1: Main Server Room
 
-![Screenshot 1](SNAPS/1.png)
+![Screenshot 1](1.png)
 
 #### Screenshot 2: Advance Block
 
-![Screenshot 2](SNAPS/2.png)
+![Screenshot 2](2.png)
 
 #### Screenshot 3: St Paul's Block
 
-![Screenshot 3](SNAPS/3.png)
+![Screenshot 3](3.png)
 
 #### Screenshot 4: Hostel blocks
 
-![Screenshot 4](SNAPS/4.png)
+![Screenshot 4](4.png)
 
 #### Screenshot 5: Academic Block 4
 
-![Screenshot 5](SNAPS/5.png)
+![Screenshot 5](5.png)
 
 #### Screenshot 6: Library Building
 
-![Screenshot 6](SNAPS/6.png)
+![Screenshot 6](6.png)
 
 #### Screenshot 7: Block 18
 
-![Screenshot 7](SNAPS/7.png)
+![Screenshot 7](7.png)
 
 ## Files Included in the Repository
 
@@ -79,7 +79,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: Shanmukh Anala
-- **Email**: [shanmukh868@gmail.com](mailto:shanmukh868@gmail.com)
+- **Name**: Karri Sai Suddep Reddy
+- **Email**: [sudeepreddy9009@gmail.com](mailto:sudeepreddy9009@gmail.com)
 
 
